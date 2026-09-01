@@ -81,7 +81,7 @@ GPIO     →  IN4 (Motor B)
 
 ---
 
-## ⬆Cómo subir el código al ESP32
+## Cómo subir el código al ESP32
 
 1. Conecta tu ESP32 a la computadora con cable USB.
 2. Abre el archivo principal del proyecto: [`src/carrito_futbol.ino`](src/carrito_futbol.ino)
@@ -91,7 +91,7 @@ GPIO     →  IN4 (Motor B)
 
 ---
 
-## 📁structura del repositorio
+## Estructura del repositorio
 
 ```
 carrito-futbol-esp32/
