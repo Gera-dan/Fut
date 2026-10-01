@@ -1,9 +1,9 @@
 # Guía para personalizar tu carrito
  
-¡Bienvenido! En esta guía vas a aprender a **cambiar cómo se maneja tu carrito** modificando solo unas pocas líneas de código.
- 
-La regla de oro: **copia, pega y prueba.** No necesitas entender todo el código, solo saber *dónde* pegar cada cosa.
- 
+Esta guía te explica cómo funciona el código del carrito y cómo se escribe cada botón y joystick. Úsala como consulta mientras haces los retos del archivo RETOS_ESTUDIANTES.md.
+
+La idea: busca en el catálogo cómo se escribe cada botón, cópialo, pégalo en el lugar correcto y prueba.
+
 ---
  
 ## ¿Dónde se hacen los cambios?
