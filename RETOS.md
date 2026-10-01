@@ -10,7 +10,7 @@
 4. **Sube el código al ESP32 y pruébalo** con el carrito.
 
 
-> Si algo no funciona, no te frustres: revisa, ajusta y vuelve a probar. Cuando algo falla, ahí es donde más se aprende. 🔧
+> Si algo no funciona, no te frustres: revisa, ajusta y vuelve a probar. Cuando algo falla, ahí es donde más se aprende.
 
 ---
 
