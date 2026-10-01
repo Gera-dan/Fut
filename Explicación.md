@@ -1,6 +1,6 @@
 # Guía para personalizar tu carrito
  
-Esta guía te explica cómo funciona el código del carrito y cómo se escribe cada botón y joystick. Úsala como consulta mientras haces los retos del archivo RETOS_ESTUDIANTES.md.
+Esta guía te explica cómo funciona el código del carrito y cómo se escribe cada botón y joystick. Úsala como consulta mientras haces los retos del archivo RETOS.md.
 
 La idea: busca en el catálogo cómo se escribe cada botón, cópialo, pégalo en el lugar correcto y prueba.
 
