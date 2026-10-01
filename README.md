@@ -13,12 +13,9 @@ Este repositorio fue creado como material de apoyo para un curso, con la idea de
 
 - [¿Qué es este proyecto?](#-qué-es-este-proyecto)
 - [Materiales necesarios](#-materiales-necesarios)
-- [Diagrama de conexión](#-diagrama-de-conexión)
-- [Instalación del entorno](#-instalación-del-entorno)
 - [Cómo subir el código al ESP32](#-cómo-subir-el-código-al-esp32)
 - [Código fuente (main)](src/carrito_futbol.ino)
 - [Estructura del repositorio](#-estructura-del-repositorio)
-- [Cómo usarlo](#-cómo-usarlo)
 - [Problemas comunes](#-problemas-comunes)
 - [Créditos](#-créditos)
 
@@ -52,9 +49,6 @@ Es un carrito controlado a distancia (o de forma autónoma, según la etapa del 
 
 ---
 
-##  Diagrama de conexión
-
->  *imagen del diagrama*
 
 ```
 ESP32 Pin  →  Componente
@@ -106,9 +100,6 @@ carrito-futbol-esp32/
 > Link directo al código: [`src/carrito_futbol.ino`](src/carrito_futbol.ino)
 
 ---
-
-## Cómo usarlo
-
 
 ---
 
